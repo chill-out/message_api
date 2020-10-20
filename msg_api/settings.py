@@ -25,7 +25,7 @@ SECRET_KEY = '6s+2no*k#i86x3l9_=(&$7y*l0_6jo#em3m7+v__*8%3hj_+2c'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['192.168.112.128']
+ALLOWED_HOSTS = ['192.168.112.128', 'https://denis-msg-api.herokuapp.com/']
 
 
 # Application definition
